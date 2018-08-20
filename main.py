@@ -7,7 +7,6 @@ class TF_IDF():
     def __init__(self,
                  corpus_dir="corpus",
                  index=None,
-
                  ):
         self.corpus_dir = corpus_dir
         self.index = index
